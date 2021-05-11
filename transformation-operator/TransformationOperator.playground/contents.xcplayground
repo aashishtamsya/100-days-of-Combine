@@ -5,5 +5,8 @@
         <page name='Map'/>
         <page name='MapKeyPath'/>
         <page name='FlatMap'/>
+        <page name='ReplaceNil'/>
+        <page name='ReplaceEmpty'/>
+        <page name='Scan'/>
     </pages>
 </playground>
